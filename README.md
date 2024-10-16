@@ -1,1 +1,3 @@
 # test
+
+deployed in minikube
