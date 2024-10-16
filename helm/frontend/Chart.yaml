@@ -1,0 +1,5 @@
+# helm/frontend/Chart.yaml
+apiVersion: v2
+name: frontend
+description: A Helm chart for the frontend
+version: 0.1.0

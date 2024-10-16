@@ -1,0 +1,11 @@
+# helm/frontend/values.yaml
+replicaCount: 1
+
+image:
+  repository: frontend
+  tag: latest
+  pullPolicy: Never
+
+service:
+  type: ClusterIP
+  port: 8080
