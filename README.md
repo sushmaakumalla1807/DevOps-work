@@ -1,4 +1,1 @@
-# test
-
-deployed in minikube
-changed repository name
+In the repository https://github.com/sushmaakumalla1807/DevOps-work deployed the Flask application and used the layer requirements.txt file to install the dependencies and then used the Docker file to run frontend and backend applications. Deployed applications using helm charts.
